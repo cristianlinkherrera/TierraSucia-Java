@@ -25,13 +25,17 @@ Aplicación de consola desarrollada en Java para registrar camiones y controlar 
 
 ## Estructura del proyecto
 
+```text
 TierraSucia-Java/
-├── src/
-│   └── tierrasucia/
-│       ├── Principal.java
-│       └── TierraSucia.java
-├── .gitignore
-└── README.md
+|
+|-- src/
+|   `-- tierrasucia/
+|       |-- Principal.java
+|       `-- TierraSucia.java
+|
+|-- .gitignore
+`-- README.md
+```
 
 ## Ejecución
 
